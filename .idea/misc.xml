@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="360" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/app/Exports/StatisticsExport.php" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="fileUrl" value="das://4c523449-7b52-496c-bc95-df034ebc645b/schema/hotspotdb/table/months" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="fileUrl" value="das://4c523449-7b52-496c-bc95-df034ebc645b/schema/hotspotdb/table/clients" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1253" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/app/Http/Controllers/EmailSendController.php" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="141" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/app/Console/Kernel.php" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="812" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/app/Exports/ClientDataExport.php" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>
